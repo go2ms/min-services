@@ -4,7 +4,7 @@ import (
 	"github.com/streadway/amqp"
 	"log"
 
-	"min-services/pkg/setting"
+	"mini-services/pkg/setting"
 )
 
 var RabbitMq RabbitMQ

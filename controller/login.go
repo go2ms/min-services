@@ -3,9 +3,9 @@ package controller
 import (
     "net/http"
     "github.com/gin-gonic/gin"
-    "min-services/models"
-    "min-services/pkg/e"
-    "min-services/pkg/util"
+    "mini-services/models"
+    "mini-services/pkg/e"
+    "mini-services/pkg/util"
 )
 
 // Example for binding JSON ({"user": "manu", "password": "123"})

@@ -4,7 +4,7 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"time"
 
-	"min-services/pkg/setting"
+	"mini-services/pkg/setting"
 )
 
 var jwtSecret = []byte(setting.AppSetting.JwtSecret)

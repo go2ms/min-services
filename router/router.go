@@ -3,8 +3,8 @@ package router
 import  (
     "net/http"
     "github.com/gin-gonic/gin"
-    "min-services/controller"
-    "min-services/middleware/jwt"
+    "mini-services/controller"
+    "mini-services/middleware/jwt"
 )
 
 func InitRouter(router *gin.Engine)  {

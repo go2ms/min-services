@@ -3,9 +3,9 @@ package controller
 import (
 	"context"
 	"log"
-	"min-services/models"
-	"min-services/pkg/e"
-	"min-services/pkg/mgo"
+	"mini-services/models"
+	"mini-services/pkg/e"
+	"mini-services/pkg/mgo"
 	"net/http"
 	"time"
 

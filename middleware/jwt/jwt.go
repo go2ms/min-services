@@ -5,9 +5,9 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"min-services/pkg/e"
-	"min-services/pkg/util"
-	"min-services/pkg/setting"
+	"mini-services/pkg/e"
+	"mini-services/pkg/util"
+	"mini-services/pkg/setting"
 )
 
 func JWT() gin.HandlerFunc {

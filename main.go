@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"min-services/pkg/mgo"
-	"min-services/pkg/rabbit"
-	"min-services/pkg/redis"
-	"min-services/pkg/setting"
-	"min-services/router"
+	"mini-services/pkg/mgo"
+	"mini-services/pkg/rabbit"
+	"mini-services/pkg/redis"
+	"mini-services/pkg/setting"
+	"mini-services/router"
 
 	"github.com/gin-gonic/gin"
 )
